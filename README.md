@@ -1,8 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif)
-
+<img src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif" alt="Banner" style="width:100%;">
 <h1 align="center">Hi 👋, I'm Keyvan Rahban </h1>
 <h3 align="center">A passionate Cyber Security Engineer from Iran</h3>
-
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zFY6Vp261PYV5aRcHJn2yQ.gif">
 
 
